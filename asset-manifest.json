@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/vk-minesweeper/static/css/main.b1442c57.css",
+    "main.js": "/vk-minesweeper/static/js/main.62bf3f42.js",
+    "static/js/787.7724587c.chunk.js": "/vk-minesweeper/static/js/787.7724587c.chunk.js",
+    "static/media/MS-Sans-Serif-Regular.ttf": "/vk-minesweeper/static/media/MS-Sans-Serif-Regular.d1043a8dc9f19e33c88b.ttf",
+    "static/media/MS-Sans-Serif-Regular.woff": "/vk-minesweeper/static/media/MS-Sans-Serif-Regular.78a1acdc100436a9abf3.woff",
+    "static/media/Minecraft-Bold.otf": "/vk-minesweeper/static/media/Minecraft-Bold.a9b3bc2a90dd462c9c18.otf",
+    "static/media/MS-Sans-Serif-Regular.woff2": "/vk-minesweeper/static/media/MS-Sans-Serif-Regular.459ac110fc5be0a3269b.woff2",
+    "static/media/Minecraft-Bold.woff": "/vk-minesweeper/static/media/Minecraft-Bold.baf744903e4f3b5400c1.woff",
+    "static/media/win_emoji-icon.svg": "/vk-minesweeper/static/media/win_emoji-icon.2bf1dc8054e7593a7703f7a69cfb1753.svg",
+    "static/media/scared_emoji-icon.svg": "/vk-minesweeper/static/media/scared_emoji-icon.bcaf843f707c72920bf9df36d5ad3333.svg",
+    "static/media/lose_emoji-icon.svg": "/vk-minesweeper/static/media/lose_emoji-icon.8e5ed9c2df1ff68a53f1baa4b5040297.svg",
+    "static/media/default_emoji-icon.svg": "/vk-minesweeper/static/media/default_emoji-icon.b1bfe461dd38df3a509e8639d723b4ab.svg",
+    "static/media/Minecraft-Bold.woff2": "/vk-minesweeper/static/media/Minecraft-Bold.811e7b6e530cbaf228fd.woff2",
+    "static/media/game-icon.svg": "/vk-minesweeper/static/media/game-icon.4df655722b28e6a3bfd92a5b9b2c9967.svg",
+    "index.html": "/vk-minesweeper/index.html",
+    "static/media/scrollbar_Tarrow-icon.svg": "/vk-minesweeper/static/media/scrollbar_Tarrow-icon.d96f4b84e06374267a0a.svg",
+    "static/media/scrollbar_Barrow-icon.svg": "/vk-minesweeper/static/media/scrollbar_Barrow-icon.18421619b4d6b94aa6e6.svg",
+    "static/media/scrollbar_Larrow-icon.svg": "/vk-minesweeper/static/media/scrollbar_Larrow-icon.d45a0feb3c0590640e0f.svg",
+    "static/media/scrollbar_Rarrow-icon.svg": "/vk-minesweeper/static/media/scrollbar_Rarrow-icon.e55dc99ed97b52ad830a.svg",
+    "main.b1442c57.css.map": "/vk-minesweeper/static/css/main.b1442c57.css.map",
+    "main.62bf3f42.js.map": "/vk-minesweeper/static/js/main.62bf3f42.js.map",
+    "787.7724587c.chunk.js.map": "/vk-minesweeper/static/js/787.7724587c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1442c57.css",
+    "static/js/main.62bf3f42.js"
+  ]
+}
