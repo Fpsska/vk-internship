@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/vk-minesweeper-task/static/css/main.7c98ff37.css",
+    "main.css": "/vk-minesweeper-task/static/css/main.5ef5966d.css",
     "main.js": "/vk-minesweeper-task/static/js/main.f2106f19.js",
     "static/js/787.eb68c090.chunk.js": "/vk-minesweeper-task/static/js/787.eb68c090.chunk.js",
     "static/media/MS-Sans-Serif-Regular.ttf": "/vk-minesweeper-task/static/media/MS-Sans-Serif-Regular.d1043a8dc9f19e33c88b.ttf",
@@ -19,12 +19,12 @@
     "static/media/scrollbar_Barrow-icon.svg": "/vk-minesweeper-task/static/media/scrollbar_Barrow-icon.18421619b4d6b94aa6e6.svg",
     "static/media/scrollbar_Larrow-icon.svg": "/vk-minesweeper-task/static/media/scrollbar_Larrow-icon.d45a0feb3c0590640e0f.svg",
     "static/media/scrollbar_Rarrow-icon.svg": "/vk-minesweeper-task/static/media/scrollbar_Rarrow-icon.e55dc99ed97b52ad830a.svg",
-    "main.7c98ff37.css.map": "/vk-minesweeper-task/static/css/main.7c98ff37.css.map",
+    "main.5ef5966d.css.map": "/vk-minesweeper-task/static/css/main.5ef5966d.css.map",
     "main.f2106f19.js.map": "/vk-minesweeper-task/static/js/main.f2106f19.js.map",
     "787.eb68c090.chunk.js.map": "/vk-minesweeper-task/static/js/787.eb68c090.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7c98ff37.css",
+    "static/css/main.5ef5966d.css",
     "static/js/main.f2106f19.js"
   ]
 }
